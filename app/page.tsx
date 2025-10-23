@@ -1,4 +1,5 @@
 import Card from "@/components/ui/Card";
+import Sidebar from "@/components/Sidebar";
 import { MdFastfood } from "react-icons/md";
 import { PiBowlFood } from "react-icons/pi";
 import { RiDrinks2Fill } from "react-icons/ri";
@@ -6,6 +7,9 @@ import { RiDrinks2Fill } from "react-icons/ri";
 export default function Home() {
   return (
     <div className="flex flex-col items-center">
+      <div>
+        <Sidebar />
+      </div>
 
       {/*main menu*/}
       <div>
