@@ -11,7 +11,7 @@ function Sidebar() {
             <div className='flex flex-col justify-between h-full'>
             <div className='flex flex-col'>
             <Link href="" >Home</Link>
-            <Link href="" >Cart</Link>
+            <Link href="" >Keranjang</Link>
             <Link href="" >Profile</Link>
             </div>
 
