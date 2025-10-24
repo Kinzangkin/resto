@@ -20,6 +20,7 @@ export default function Home() {
         <Card />
         <Card />
         <Card />
+        <Card />
       </div>
       </div>
       {/*main menu*/}
